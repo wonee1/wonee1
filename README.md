@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi WELCOME, I'm CHAEWON KIM👋
 
 
 
