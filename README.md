@@ -3,7 +3,7 @@
 **web Developer**
 
 
-## STACK🛠️
+## Stacks🛠️
 
 
 
