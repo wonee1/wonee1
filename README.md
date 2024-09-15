@@ -67,12 +67,16 @@ Department of Computer Science and Engineering
 
 ## About me 🐱
 
+**Dev logs** 
+
+<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
 
 
 
 
 
 
+---
 
 ![wonee1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonee1&show_icons=true&theme=radical)
 
