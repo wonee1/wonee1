@@ -7,6 +7,10 @@
 
 
 
+
+
+
+
 ## About me 🐱
 
 🔹2022.03 - 2026.02 : Bachelor's degree from Sungshin Women's University
