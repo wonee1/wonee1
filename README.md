@@ -23,7 +23,7 @@ Department of Computer Engineering
 🔹Java Textgame : <https://github.com/wonee1/javaproject_textgame>
 
 
-🔹Codeit demo_day jogakzip : <https://github.com/wonee1/demoday_deploy> <https://github.com/wonee1/demoday_BE>
+🔹Codeit demo_day jogakzip : <https://github.com/wonee1/demoday_deploy> / <https://github.com/wonee1/demoday_BE>
 
 
 
