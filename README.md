@@ -2,12 +2,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20wonee1's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-
 **web Developer**
 
 
-
 ---
+
 
 
 
@@ -24,6 +23,8 @@ Language
 
 Framework
 
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
 
  
