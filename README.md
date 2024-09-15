@@ -12,9 +12,7 @@
 Department of Computer Science and Engineering
 
 🔹2022.03 - 2024.02 : Enrolled in the Computer Science program
-
 🔹2024.03 - 2025.02 : Temporary leave of absence
-
 🔹2025.03 - 2026.02 : Resuming studies, expected to graduate two years later
 
 
@@ -77,7 +75,7 @@ Department of Computer Science and Engineering
 
 
 
-## Dev logs 
+## Dev logs 👩‍💻
 
 <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white"/>
 
