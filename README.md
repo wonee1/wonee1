@@ -1,7 +1,17 @@
 ## Hi WELCOME, I'm wonee1👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20wonee1's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-**web Developer/**
+
+**Web Developer**
+
+🔹2022.03 - 2026.02 : Bachelor’s Degree
+Department of Computer Science and Engineering
+
+🔹2022.03 - 2024.02 : Enrolled in the Computer Science program
+
+🔹2024.03 - 2025.02 : Temporary leave of absence
+
+🔹2025.03 - 2026.02 : Resuming studies, expected to graduate two years later
 
 
 ---
