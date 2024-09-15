@@ -58,9 +58,8 @@ Department of Computer Science and Engineering
 **Deploy**
 
 
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/render-000000?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
+ <img src="https://img.shields.io/badge/render-000000?style=flat-square&logo=render&logoColor=white"/>
 
 
 
