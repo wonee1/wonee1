@@ -20,7 +20,7 @@ Department of Computer Engineering
 
 ## My Project 👩‍💻
 
-🔹Java Textgame : 
+🔹Java Textgame : <https://github.com/wonee1/javaproject_textgame>
 
 
 
