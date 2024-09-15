@@ -8,11 +8,13 @@
 
 ## About me 🐱
 
-🔹2022.03 - 2026.02 : Bachelor’s Degree
-Department of Computer Science and Engineering
+🔹2022.03 - 2026.02 : Bachelor's degree from Sungshin Women's University
+Department of Computer Engineering
 
 🔹2022.03 - 2024.02 : Enrolled in the Computer Science program
+
 🔹2024.03 - 2025.02 : Temporary leave of absence
+
 🔹2025.03 - 2026.02 : Resuming studies, expected to graduate two years later
 
 
