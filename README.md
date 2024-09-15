@@ -50,6 +50,8 @@ Department of Computer Science and Engineering
 
 <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=Visual Studio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/><img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/>
 <img src="https://img.shields.io/badge/intellijidea-000000?style=flat-square&logo=intellijidea&logoColor=white"/>
+<img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat-square&logo=eclipseide&logoColor=white"/>
+
 
 
 
@@ -61,7 +63,7 @@ Department of Computer Science and Engineering
 
 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=Vercel&logoColor=white"/>
- <img src="https://img.shields.io/badge/render-000000?style=flat-square&logo=render&logoColor=white"/>
+<img src="https://img.shields.io/badge/render-000000?style=flat-square&logo=render&logoColor=white"/>
 
 
 
