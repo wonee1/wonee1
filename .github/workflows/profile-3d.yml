@@ -21,4 +21,4 @@ jobs:
           git config user.email gimchaewon417@gmail.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push https://$GITHUB_TOKENgithub.com/wonee1/wonee1/
