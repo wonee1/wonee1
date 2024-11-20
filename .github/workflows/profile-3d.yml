@@ -22,4 +22,5 @@ jobs:
           git pull origin main || true
           git add -A .
           git commit -m "generated"
-          git push 
+          git push origin main
+
