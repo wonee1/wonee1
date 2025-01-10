@@ -1,7 +1,7 @@
 ## Hi WELCOME, I'm wonee1👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20wonee1's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-**Web Developer🖥️**
+**BE Developer🖥️**
 
 
 ---
@@ -23,9 +23,9 @@ Department of Computer Engineering
 
 🔹Java Textgame : <https://github.com/wonee1/javaproject_textgame>
 
+🔹Codeit demo_day jogakzip back-end : <https://github.com/wonee1/demoday_deploy> / <https://github.com/wonee1/demoday_BE>
 
-🔹Codeit demo_day jogakzip : <https://github.com/wonee1/demoday_deploy> / <https://github.com/wonee1/demoday_BE>
-
+🔹Ne(o)rdinary Hackathon back-end : <https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server>
 
 
 ---
