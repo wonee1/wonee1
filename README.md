@@ -21,15 +21,15 @@ Department of Computer Engineering
 
 ## My Project 👩‍💻
 
-🔹Java Textgame : <https://github.com/wonee1/javaproject_textgame>
-
-🔹Codeit demo_day jogakzip back-end : <https://github.com/wonee1/demoday_deploy> / <https://github.com/wonee1/demoday_BE>
-
 🔹Ne(o)rdinary Hackathon back-end : <https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server>
 
+🔹UMC 7th Demoday HomeMaster back-end :  <https://github.com/UMC-Master/backend>
+
+🔹geotdam project : <https://github.com/geotdam>
+
+🔹good-LuckyNews projeect : <https://github.com/Good-LuckyNews/BE>
 
 ---
-
 
 
 
