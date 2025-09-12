@@ -7,15 +7,15 @@
 
 ## My Project 👩‍💻
 
-🔹Ne(o)rdinary Hackathon back-end : <https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server>
+🔹Ne(o)rdinary Hackathon (back-end) : <https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server>
 
-🔹UMC 7th Demoday HomeMaster back-end :  <https://github.com/UMC-Master/backend>
+🔹UMC 7th Demoday HomeMaster (back-end) :  <https://github.com/UMC-Master/backend>
 
-🔹geotdam project : <https://github.com/geotdam> 
+🔹geotdam project (full stack): <https://github.com/geotdam> 
 
-🔹good-LuckyNews projeect : <https://github.com/Good-LuckyNews/BE>
+🔹good-LuckyNews projeect (back-end) : <https://github.com/Good-LuckyNews/BE>
 
-🔹AI-ppupysense projeect : <https://github.com/oculo0204/AppliedAI3> <https://github.com/wonee1/Puppysense_BE>
+🔹AI-ppupysense projeect (AI/back-end): <https://github.com/oculo0204/AppliedAI3> <https://github.com/wonee1/Puppysense_BE>
 
 
 ---
