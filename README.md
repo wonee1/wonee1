@@ -3,9 +3,13 @@
 
 ## About Me 🐈
 🎓 3rd-Year Computer Science Student in Sungshin Women's University (2022~2027) 
+
 💻 Interested in Backend & Server Development, with hands-on project experience
+
 ✏️ Currently studying Spring Boot, Node.js, and Databases
+
 ⚡ Passionate about building scalable backend systems and learning DevOps practices
+
 ⭐ contact email:  dnjsldnjsl102@naver.com 
 
 
