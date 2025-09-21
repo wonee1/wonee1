@@ -1,8 +1,12 @@
 ## Hi WELCOME, I'm wonee1👋
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20wonee1's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
-**Developer🖥️**
-
+## About Me 🐈
+🎓 3rd-Year Computer Science Student in Sungshin Women's University (2022~2027) 
+💻 Interested in Backend & Server Development, with hands-on project experience
+✏️ Currently studying Spring Boot, Node.js, and Databases
+⚡ Passionate about building scalable backend systems and learning DevOps practices
+⭐ contact email:  dnjsldnjsl102@naver.com 
 
 
 ## My Project 👩‍💻
