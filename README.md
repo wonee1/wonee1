@@ -15,12 +15,12 @@
 
 ## Activities 🌟
 
-- **Codeit Boost – Node.js Track 1st ** (2024.05 – 2024.09)  
+- **Codeit Boost – Node.js Track 1st** (2024.05 – 2024.09)  
 - **University Makeus Challenge (UMC) 7th – Node.js** (2024.09 – 2025.01.21)  
 - **University Makeus Challenge (UMC) 8th–9th  – Node.js Part Leader** (2025.03 ~ )  
 - **University Makeus Challenge (UMC) 8th–9th – Spring Boot Junior Course** (2025.03 ~)  
-- **Game Development Club S.GAM – Development A Team (1st–2st)** (2024.09 ~)  
--- **CJ OliveNetworks × Korea Foundation for the Advancement of Science & Creativity – SW Education Volunteer Mentor** (2024.09 – 2024.12)  
+- **Game Development Club S.GAM – Development A Team (1st–2st)** (2024.09 ~)
+- **CJ OliveNetworks × Korea Foundation for the Advancement of Science & Creativity – SW Education Volunteer Mentor** (2024.09 – 2024.12)  
 
 
 
