@@ -31,12 +31,13 @@
 
 ⭐ UMC 7th Demoday HomeMaster (back-end):  <https://github.com/UMC-Master/backend>
 
-⭐ geotdam project (full stack): <https://github.com/geotdam> 
+⭐ geotdam project (full-stack): <https://github.com/geotdam> 
 
 ⭐ good-LuckyNews projeect (back-end): <https://github.com/Good-LuckyNews/BE>
 
 ⭐ AI-ppupysense projeect (AI/back-end): <https://github.com/oculo0204/AppliedAI3> <https://github.com/wonee1/Puppysense_BE>
 
+⭐ FitLink (full-stack): <https://github.com/FitLink-project>
 
 ---
 
