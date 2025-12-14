@@ -13,19 +13,8 @@
 📥 contact email:  dnjsldnjsl102@naver.com 
 
 
-## Activities 🌟
-
-- **Codeit Boost – Node.js Track 1st** (2024.05 – 2024.09)  
-- **University Makeus Challenge (UMC) 7th – Node.js** (2024.09 – 2025.01.21)  
-- **University Makeus Challenge (UMC) 8th–9th  – Node.js Part Leader** (2025.03 ~ )  
-- **University Makeus Challenge (UMC) 8th–9th – Spring Boot Junior Course** (2025.03 ~)  
-- **Game Development Club S.GAM – Development A Team (1st–2st)** (2024.09 ~)
-- **CJ OliveNetworks × Korea Foundation for the Advancement of Science & Creativity – SW Education Volunteer Mentor** (2024.09 – 2024.12)  
-
-
 
 ## My Project 👩‍💻
-
 
 ⭐ Ne(o)rdinary Hackathon (back-end): <https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server>
 
@@ -38,6 +27,16 @@
 ⭐ AI-ppupysense projeect (AI/back-end): <https://github.com/oculo0204/AppliedAI3> <https://github.com/wonee1/Puppysense_BE>
 
 ⭐ FitLink (full-stack): <https://github.com/FitLink-project>
+
+
+## Activities 🌟
+
+- **Codeit Boost – Node.js Track 1st** (2024.05 – 2024.09)  
+- **University Makeus Challenge (UMC) 7th – Node.js** (2024.09 – 2025.01.21)  
+- **University Makeus Challenge (UMC) 8th–9th  – Node.js Part Leader** (2025.03 ~ )  
+- **University Makeus Challenge (UMC) 8th–9th – Spring Boot Junior Course** (2025.03 ~)  
+- **Game Development Club S.GAM – Development A Team (1st–2st)** (2024.09 ~)
+- **CJ OliveNetworks × Korea Foundation for the Advancement of Science & Creativity – SW Education Volunteer Mentor** (2024.09 – 2024.12)  
 
 ---
 
