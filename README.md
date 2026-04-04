@@ -3,19 +3,28 @@
 
 ## About Me 🐈
 🎓 4rd-Year Computer Science Student in Sungshin Women's University (2022~2027) 
+
 💻 Interested in Backend & Server Development, with hands-on project experience
+
 ✏️ Currently studying Spring Boot, Node.js, and Databases
+
 ⚡ Passionate about building scalable backend systems and learning DevOps practices
+
 📥 contact email:  dnjsldnjsl102@naver.com 
 
 
 ## My Project 👩‍💻
 
 ⭐ Ne(o)rdinary Hackathon (back-end): <https://github.com/Ne-o-rdinary-Hackathon-7th-Team-C/team-c-api-server>
+
 ⭐ UMC 7th Demoday HomeMaster (back-end):  <https://github.com/UMC-Master/backend>
+
 ⭐ geotdam project (full-stack): <https://github.com/geotdam> 
+
 ⭐ good-LuckyNews projeect (back-end): <https://github.com/Good-LuckyNews/BE>
+
 ⭐ AI-ppupysense projeect (AI/back-end): <https://github.com/oculo0204/AppliedAI3> <https://github.com/wonee1/Puppysense_BE>
+
 ⭐ FitLink (full-stack): <https://github.com/FitLink-project>
 
 ---
