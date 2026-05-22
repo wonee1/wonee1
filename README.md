@@ -2,8 +2,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20wonee1's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
 
-Backend Developer | Cloud & DevOps에 관심을 갖고 성장 중Java/Spring Boot, Node.js 기반의 백엔드 개발 경험을 갖추고 있으며, AWS를 활용한 클라우드 배포와 인프라 운영에 관심을 가지고 역량을 넓혀가고 있습니다.
-안정적이고 확장 가능한 서비스를 만드는 것을 목표로, 백엔드와 클라우드를 아우르는 개발자로 성장하고자 합니다! 
+**Backend Developer | Cloud & DevOps**
+
+Java/Spring Boot, Node.js 기반의 백엔드 개발 경험을 갖추고 있으며,  
+AWS를 활용한 클라우드 배포와 인프라 운영에 관심을 가지고 역량을 넓혀가고 있습니다.  
+안정적이고 확장 가능한 서비스를 만드는 것을 목표로,  
+백엔드와 클라우드를 아우르는 개발자로 성장하고자 합니다.
 
 
 ## My Project 👩‍💻
